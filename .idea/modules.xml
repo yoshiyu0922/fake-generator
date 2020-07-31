@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faker.iml" filepath="$PROJECT_DIR$/.idea/modules/faker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faker-build.iml" filepath="$PROJECT_DIR$/.idea/modules/faker-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fake-generator.iml" filepath="$PROJECT_DIR$/.idea/modules/fake-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fake-generator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/fake-generator-build.iml" />
     </modules>
   </component>
 </project>
