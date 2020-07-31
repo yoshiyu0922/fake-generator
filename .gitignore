@@ -11,3 +11,6 @@ project/plugins/project/
 
 # IntelliJ
 .idea/
+
+# output
+out/*
